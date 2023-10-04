@@ -1,0 +1,10 @@
+:root{
+    --cusNavBarBgColor : #ffdd00;
+    --cusNavBarFontColor : #000000;
+    --cusContentPrimaryFontColor : #000000;
+    --cusNavPrimaryBgColor : #ffdd00;
+    --cusContentSecondaryFontColor : #ffdd00;
+    --cusNavSecondaryBgColor : #FFFFFF;
+    /* --cusFontHome : ${fontCustom.fontNameList[0]};
+    --cusFontRegister : '${fontCustom.fontNameList[fontCustom.fontNameList.length < 2 ? 0 : 1]}'; */
+}
